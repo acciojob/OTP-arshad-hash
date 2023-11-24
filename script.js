@@ -1,10 +1,10 @@
 //your JS code here. If required.
-let one= document.getElementById("one");
-let two= document.getElementById("two");
-let three=document.getElementById("three");
-let four=document.getElementById("four");
-let five=document.getElementById("five");
-let six=document.getElementById("six");
+let one= document.getElementById("code-1");
+let two= document.getElementById("code-2");
+let three=document.getElementById("code-3");
+let four=document.getElementById("code-4");
+let five=document.getElementById("code-5");
+let six=document.getElementById("code-6");
 
 one.addEventListener("keyup",(event)=>{
 	//after entering the first foucs should be 
